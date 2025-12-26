@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">🚀 Hey there, I'm <span style="color:#00C9FF">BlackScorpion229</span> 👋</h1>
 
-<!--
-**BlackScorpion229/BlackScorpion229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Software+Developer+%F0%9F%92%BB;Machine+Learning+Explorer+%F0%9F%A7%AC;Back-End+Engineer+%F0%9F%A7%A0;Problem+Solver+%E2%9C%94%EF%B8%8F;Let%27s+Build+Something+Amazing..." alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+```yaml
+Name: Naga Kishore Kosuri
+From: Narsapur, AP, India 🇨🇮
+Role: Software Developer | AI Engineer | Backend Engineer | Data Scientist | Data Engineer | Frontend Developer | Web Developer
+Currently: Learning Deep Learning & Contributing to Open Source
+Goal: Build Scalable, Smart & Clean Software Systems
+```
+
+💬 I believe in **"Learning by Doing"** & using tech to solve real-world problems.  
+🧠 I build intelligent systems using **Python, Java, Spring Boot**, and **ML algorithms**.  
+🌟 I love cracking data problems, automating things, and building backends that scale.
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,snowflake,redsift,aws,html,css,js,php,mysql,git,github,vscode" alt="Tech Stack" />
+</p>
+
+---
+
+## 📂 Notable Projects
+| Project | Tech Used | Highlights |
+|--------|-----------|------------|
+| **Face Recognition** | Python, OpenCV | Real-time system using Haar Cascades, LBPH |
+| **Heart Disease Classification** | Python, Pandas, Sklearn | Classified patients using logistic regression |
+| **Cancer Severity Prediction** | Python, Pandas, SKlearn | Predicted cost, severity, and survival |
+| **Wine Clustering** | Python, Sklearn | Applied DBSCAN, KMeans on unlabelled data |
+
+> ✨ _All my projects aim to blend code with intelligence!_
+
+---
+
+
+
+## 🌍 Connect with Me
+<p align="center">
+  <a href="/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nagakishore.kosuri@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/BlackScorpion229" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🌾 Certifications
+- 🎓 Machine Learning Plan - AWS
+- 🎓 Machine Learning in Python – KP Solutions
+- 🌐 Generative AI Explained – NVIDIA
+- 💡 Full Stack Dev in Java – KP Solutions
+- 🤖 Intro to Customer Care in Gen AI – IBM
+- 📘 TCS iON Career Edge – Young Professional
+
+---
+
+## 🎯 Goals for 2025
+- [x] Master Deep Learning 🧠
+- [x] Build real-world AI-powered apps 🛠
+- [ ] Contribute to open-source ML projects 🌍
+- [ ] Land a role in a product-based company 🚀
+
+---
+
+## ⚡ Fun Fact
+- I love **gaming & content creation** 🎮
+- I think in **code, coffee, and clean logic** ☕
+- I believe **tech + creativity = limitless potential**
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Motivational Quote" />
+</p>
+
+---
+
+> _“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler_
